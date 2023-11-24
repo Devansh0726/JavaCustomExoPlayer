@@ -11,6 +11,8 @@
         app:controller_layout_id="@layout/player_custom_controls"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        app:hide_on_touch="true"
+        app:use_controller="true"
         app:show_buffering="when_playing"/>
 
 </FrameLayout>

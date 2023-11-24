@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JavaCustomExoPlayer</string>
+    <string name="track_selection_title">TitleTrack</string>
 </resources>
